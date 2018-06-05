@@ -1,5 +1,5 @@
 {
-    "name": "cakedc/tiny-mce",
+    "name": "funayaki/tiny-mce",
     "description": "TinyMCE Plugin for CakePHP",
     "type": "cakephp-plugin",
     "keywords": ["tinymce", "wysiwyg", "editor"],
